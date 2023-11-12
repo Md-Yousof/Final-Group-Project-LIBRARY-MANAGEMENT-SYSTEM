@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LibraryAPI_R53_A.props" />
+</Project>

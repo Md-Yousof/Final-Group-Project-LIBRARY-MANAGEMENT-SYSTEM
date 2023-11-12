@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\uploads\\45b6a6a6-22a2-44f0-b346-c116ca126dd9_The_AdventureOf_SherlockHolmes.jpg",
+      "PackagePath": "staticwebassets\\uploads\\45b6a6a6-22a2-44f0-b346-c116ca126dd9_The_AdventureOf_SherlockHolmes.jpg"
+    },
+    {
+      "Id": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\uploads\\8e903481-e2ca-48de-89f0-2ec48bd20d7a_profile.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8e903481-e2ca-48de-89f0-2ec48bd20d7a_profile.jpg"
+    },
+    {
+      "Id": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\uploads\\image.txt",
+      "PackagePath": "staticwebassets\\uploads\\image.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LibraryAPI_R53_A.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LibraryAPI_R53_A.props",
+      "PackagePath": "build\\LibraryAPI_R53_A.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryAPI_R53_A.props",
+      "PackagePath": "buildMultiTargeting\\LibraryAPI_R53_A.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LibraryAPI_R53_A.props",
+      "PackagePath": "buildTransitive\\LibraryAPI_R53_A.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

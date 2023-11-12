@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "AhoUMZqbxcp/UIpEwmcgw/az+NtQbTCI3m38fcrv8CY=",
+  "Source": "LibraryAPI_R53_A",
+  "BasePath": "_content/LibraryAPI_R53_A",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LibraryAPI_R53_A\\wwwroot",
+      "Source": "LibraryAPI_R53_A",
+      "ContentRoot": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\",
+      "BasePath": "_content/LibraryAPI_R53_A",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\uploads\\45b6a6a6-22a2-44f0-b346-c116ca126dd9_The_AdventureOf_SherlockHolmes.jpg",
+      "SourceId": "LibraryAPI_R53_A",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\",
+      "BasePath": "_content/LibraryAPI_R53_A",
+      "RelativePath": "uploads/45b6a6a6-22a2-44f0-b346-c116ca126dd9_The_AdventureOf_SherlockHolmes.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\45b6a6a6-22a2-44f0-b346-c116ca126dd9_The_AdventureOf_SherlockHolmes.jpg"
+    },
+    {
+      "Identity": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\uploads\\8e903481-e2ca-48de-89f0-2ec48bd20d7a_profile.jpg",
+      "SourceId": "LibraryAPI_R53_A",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\",
+      "BasePath": "_content/LibraryAPI_R53_A",
+      "RelativePath": "uploads/8e903481-e2ca-48de-89f0-2ec48bd20d7a_profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8e903481-e2ca-48de-89f0-2ec48bd20d7a_profile.jpg"
+    },
+    {
+      "Identity": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\uploads\\image.txt",
+      "SourceId": "LibraryAPI_R53_A",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IDB_R53_YOUSOF\\Final_Project_plan\\Project_Presentation\\LibraryAPI_R53_A-master\\wwwroot\\",
+      "BasePath": "_content/LibraryAPI_R53_A",
+      "RelativePath": "uploads/image.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\image.txt"
+    }
+  ]
+}
